@@ -6,3 +6,4 @@ gem 'rack-test'
 gemspec
 
 gem 'rspec'
+gem 'rails-html-sanitizer'
